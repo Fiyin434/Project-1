@@ -1,0 +1,438 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+ul{
+    padding: 20px 14px;
+    float: right;
+    margin-right: 180px;
+}
+
+li{
+    display: inline;
+    padding: 14px;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+img{
+    padding: 8px;
+    margin-left: 90px;
+}
+
+#Login a{
+    text-decoration: none;
+    border: 2px solid rgb(255,94,0);
+    padding: 5px 6px;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    border-radius: 5px;
+}
+
+#darken-image{
+    height: 70vh;
+    width: 100%;
+    background-image: url('./expertnaire\ 1.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat; 
+    
+    
+}
+
+#text-1{
+    padding: 110px;
+    color: white;
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-weight: 56px;
+    filter: drop-shadow(95%);
+    isolation: isolate;
+    opacity: 1;
+}
+h3{
+    padding: 110px;
+    padding-top: 0px;
+    color: whitesmoke;   
+    padding-bottom: 8px;
+}
+#sub-1{
+    background-color: rgb(255,94,0);
+    width: 15vw;
+    margin-left: 110px;
+    height: 55vh;
+    font-size: 0.9rem;
+    border-radius: 7px;
+    padding: 15px;
+    padding-right: 75px;
+    padding-left: 75px;
+    font-family: 'Lato', sans-serif;
+}
+/*#sub{
+    background-color: rgb(255,94,0);
+    height: 58px;
+    width: 22%;
+    color: white;
+    border-radius: 8px;
+    font-size: 20px;
+    border: 12px;
+    margin-inline-start: 109px; 
+    cursor: pointer;   
+}*/
+
+#background{
+    height: 36vh;
+    width: 100%;
+    background-color: rgb(242, 246, 248);
+    margin-top: 0px;
+}
+
+#heading1{
+    color: black;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding-top: 48px;
+    font-size: 25px;
+}
+
+#heading2{
+    color: black;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin-block-start: 12px;
+    font-weight: lighter;
+}
+
+#values{
+    height: 65px;
+    padding: 35px;
+    display: inline;
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    margin: 30px;
+    font-size: 25px;
+}
+
+#advert-1{
+    height: 57vh;
+    max-width: 613px;
+    float: left;
+    padding-top: 63px;
+    background-color: rgb(243, 246, 248);
+    margin-top: -341px;
+}
+
+#image-2{
+    height: 60vh;
+    width: 48vw;
+    float: right;
+    padding-right: 2px;
+    
+}
+
+#heading3{
+    font-size: 1.6rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding-bottom: 10px;
+    padding-left: 2.5rem;
+}
+
+#heading4{
+    font-size: 27px;
+    font-family: 'Lato', sans-serif;
+    padding: 46px;
+}
+
+#heading5{
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    padding: 46px;
+}
+#heading6{
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    padding: 46px;
+}
+#heading7{
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    padding: 46px;
+}
+#heading8{
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    padding: 46px;
+}
+#sub-2{
+    background-color: rgb(255,94,0);
+    margin-left: 43px;
+    font-size: 0.9rem;
+    border-radius: 7px;
+    padding: 15px;
+    padding-right: 85px;
+    padding-left: 85px;
+    font-family: 'Lato', sans-serif;
+}
+/*#sub2{
+    background-color: rgb(255,94,0);
+    height: 50px;
+    width: 50%;
+    color: white;
+    border-radius: 8px;
+    font-size: 15px;
+    border: 12px;
+    margin-inline-start: 40px; 
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+}*/
+
+#image-3{
+    width: 42vw;
+    height: 65vh;
+    float: left;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: -15px;
+    margin-top: -12px;
+    margin-bottom: -15px;
+}
+
+#advert-2{
+    width: 46vw;
+    height: 55vh;
+    float: left;
+    margin-left: 28px;
+    font-family: 'Lato', sans-serif;
+}
+#sub-3{
+    background-color: rgb(255,94,0);
+    font-size: 0.9rem;
+    border-radius: 7px;
+    padding: 15px;
+    padding-right: 85px;
+    padding-left: 85px;
+    font-family: 'Lato', sans-serif;
+}
+
+/*#sub3{
+    background-color: rgb(255,94,0);
+    height: 50px;
+    width: 50%;
+    color: white;
+    border-radius: 8px;
+    font-size: 15px;
+    border: 12px;
+    margin-inline-start: 3px; 
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+}*/
+
+#productlist{
+    background-color: rgb(242, 246, 248);
+    height: 1730px;
+    margin-top: 0px;
+}
+
+#productlist-1{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+#block1{
+   
+    height: 230px;
+    width: 31%;
+    background-color: rgb(232, 250, 241);
+    float: left;
+    margin: 14px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    border: 3px solid rgb(10, 4, 0);
+    margin-left: 160px;
+   margin-right: 85px;
+   padding-left: 18px;
+}
+#link1{
+    color: blue;
+    font-family: 'Lato', sans-serif;
+}
+
+#block-2{
+    height: 175px;
+    width: 32%;
+    background-color: rgb(232, 250, 241);
+    float: left;
+    margin: 15px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    border: 3px solid rgb(10, 4, 0);
+    padding-left: 18px;
+}
+#blocktext1{
+    font-size: 15px;
+    text-align: center;
+    padding-top: 15px;    
+}
+#blocktext2{
+    font-size: 15px;
+    text-align: center;
+    padding-top: 15px;    
+}
+#block-3{
+     height: 170px;
+    width: 31%;
+    background-color: rgb(232, 250, 241);
+    float: left;
+    margin: 14px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    border: 3px solid rgb(10, 4, 0);
+    margin-left: 160px;
+   margin-right: 85px;
+   padding-left: 18px;
+}
+#block-4{
+    height: 188px;
+    width: 32%;
+    background-color: rgb(232, 250, 241);
+    float: left;
+    margin: 15px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    border: 3px solid rgb(10, 4, 0);
+    padding-left: 18px;
+    margin-top: -25px;
+}
+#block-5{
+    height: 170px;
+    width: 31%;
+    background-color: rgb(232, 250, 241);
+    float: left;
+    margin: 14px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    border: 3px solid rgb(10, 4, 0);
+    margin-left: 160px;
+   margin-right: 85px;
+   padding-left: 18px;
+}
+#block-6{
+    height: 170px;
+    width: 32%;
+    background-color: rgb(232, 250, 241);
+    float: left;
+    margin: 14px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    border: 3px solid rgb(10, 4, 0);
+    margin-left: 17px;
+    margin-right: 25px;
+    padding-left: 18px;
+    margin-top: -10px;
+}
+#block-7{
+    height: 199px;
+    width: 31%;
+    background-color: rgb(232, 250, 241);
+    float: left;
+    margin: 14px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    border: 3px solid rgb(10, 4, 0);
+    margin-left: 160px;
+   margin-right: 85px;
+   padding-left: 18px;
+}
+#block-8{
+    height: 190px;
+    width: 32%;
+    background-color: rgb(232, 250, 241);
+    float: left;
+    margin: -10px 25px 0px 18px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    border: 3px solid rgb(10, 4, 0);
+    padding: 0px 18px;   
+}
+
+#bottomtext-1{
+    color: black;
+    text-align: center;
+    margin-top: -65px;
+    font-size: 1.9rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+#bottomtext-2{
+    color: black;
+    background-color: rgb(242, 246, 248);
+    width: 38%;
+    padding: 10px;
+    margin-left: 145px;
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    float: left;
+
+}
+#bottomtext-3{
+    color: black;
+    float: left;
+    background-color: rgb(242, 246, 248);
+    padding: 10px;
+    margin: 10px;
+    width: 37%;
+    margin-top: 0px;
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;   
+}
+
+#bottomtext-5{
+    color: black;
+    background-color: rgb(242, 246, 248);
+    width: 38%;
+    padding: 10px;
+    margin-left: 145px;
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    float: left;
+    margin-top: -22px;
+}
+#footer{
+    text-align: center;
+    background-color: rgb(8,24,38);
+    height: 175px;
+}
+h5{
+    color: rgb(237, 249, 249);
+    padding: 33px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: lighter;
+    font-size: 13px;
+    font-weight: 400;
+}
+.fa-brands{
+    margin-left: 15px;
+    border-color: black;
+    size: 45px;
+}
+
+
+
+

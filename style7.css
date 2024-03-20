@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#logo{
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    margin-top: 17px;    
+}
+#line-1{
+    width: 56%;
+    margin-left: 270px;
+}
+#head1{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#text-1{
+    margin-left: 272px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+#text-2{
+    margin-left: 272px;
+    font-size: 1.0rem;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+#text-3{
+    font-size: 1.06rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    line-height: 27px;
+}
+#text-4{
+    margin-left: 272px;
+    font-size: 1.06rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+}
+#text-5{
+    margin-left: 272px;
+    
+}

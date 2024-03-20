@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+ul{
+    padding: 20px 14px;
+    float: right;
+    margin-right: 180px;
+}
+
+li{
+    display: inline;
+    padding: 14px;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+img{
+    padding: 8px;
+    margin-left: 90px;
+}
+
+#Login a{
+    text-decoration: none;
+    border: 2px solid orangered;
+    padding: 5px 6px;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    border-radius: 5px;
+}
+
+#background-image{
+    height: 61.5vh;
+    width: 100%;
+    background-image: url(./affili-1.jpg);
+    filter: brightness(89%);
+}
+
+#text-1{
+    padding: 55px;
+    color: rgb(22, 1, 1);
+    padding-bottom: 10px;
+    font-size: 29px;
+    font-weight: 60px;
+    margin-left: 52px;
+    font-family: 'Lato', sans-serif;
+    line-height: 40px;
+    font: bold;
+}
+h3{
+    padding: 110px;
+    padding-top: 0px;
+    color: rgb(15, 2, 2);   
+    padding-bottom: 8px;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    font: light;
+}
+
+#sub{
+    background-color: rgb(255,94,0);
+    height: 55.5px;
+    width: 24%;
+    color: whitesmoke;
+    border-radius: 6px;
+    font-size: 17px;
+    border: 12px;
+    margin-inline-start: 109px; 
+    cursor: pointer;  
+    font-family: 'Lato', sans-serif; 
+    font: bold;
+}
+
+#image1{
+    height: 64vh;
+    width: 38%;
+    float: right;
+    margin-right: 116px;
+    margin-top: -280px;
+}
+
+#segment-1{
+    height: 36vh;
+    width: 100%;
+    margin-top: 0px;
+}
+
+#segheading1{
+    color: black;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding-top: 48px;
+    font-size: 27px;   
+}
+
+#segheading2{
+    color: black;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin-block-start: 12px;
+    font-weight: lighter;
+    font-size: 27px;
+}
+
+#link1{
+    color: rgb(49, 49, 122);
+    font-family: 'Lato', sans-serif;
+}
+
+#segvalues{
+    height: 65px;
+    padding: 35px;
+    display: inline;
+    font-family: 'Lato', sans-serif;
+    margin: 65px;
+    font-size: 21px;
+    font-weight: bold;
+    
+}
+
+#segvalues-3{
+    height: 65px;
+    font-family: 'Lato', sans-serif;
+    float: left;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: -220px;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+#segment-2{
+    height: 390px;
+    width: 100%;
+    background-color: rgb(242, 246, 248);
+    margin-top: 0px;
+}
+
+#segheading3{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding-top: 10px;
+    font-size: 1.8em;
+}
+
+#segheading4{
+    color: black;
+    text-align: left;
+    font-family: 'Lato', sans-serif;
+    margin-block-start: 13px;
+    font-weight: lighter;
+    font-size: 1.1rem;
+    line-height: 25px;
+    margin-left: 70px; 
+}
+
+#segheading5{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+#tab-1{
+    background-color: rgb(19,114,211);
+    font-size: 1.25rem;
+    border-radius: 7px;
+    padding: 15px;
+    padding-right: 115px;
+    padding-left: 115px;
+    font-family: 'Lato', sans-serif;
+    margin-left: 440px;
+}
+/*#tab1{
+    background-color: rgb(19,114,211);
+    height: 54px;
+    width: 38%;
+    color: white;
+    border-radius: 6px;
+    font-size: 21px;
+    border: 12px;
+    margin-inline-start: 109px; 
+    cursor: pointer;   
+    margin-left: 426px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}*/
+
+#footer{
+    text-align: center;
+    background-color: rgb(8,24,38);
+    height: 175px;
+}
+h5{
+    color: rgb(237, 249, 249);
+    padding: 33px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: lighter;
+    font-size: 13px;
+    font-weight: 400;
+}
+.fa-brands{
+    margin-left: 15px;
+    border-color: black;
+    size: 45px;
+
+}

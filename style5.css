@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+ul{
+    padding: 20px 14px;
+    float: right;
+    margin-right: 180px;
+}
+
+li{
+    display: inline;
+    padding: 14px;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+img{
+    padding: 6px;
+    margin-left: 90px;
+}
+
+#Login a{
+    text-decoration: none;
+    border: 2px solid orangered;
+    padding: 5px 6px;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    border-radius: 5px;
+}
+#seg-1{
+    height: 324vh;
+    width: 65%;
+    margin-left: 240px;
+    color: black;
+}
+
+#segtext-1{
+    margin-top: 26px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+}
+#hr{
+    width: 82%;
+    margin-left: 70px;
+    margin-top: 15px;    
+ 
+}
+#segtext-2{
+    font-weight: lighter;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.02rem;
+    text-align: justify;
+    margin-left: 55px;
+    line-height: 24px;
+}
+
+#subtext-3{
+    font-size: 1.4rem;
+    font-family: 'Lato', Barlow;
+    font-weight: bold;
+}
+#link1{
+    color: blue;
+}
+
+#segtext-4{
+    font-weight: lighter;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.02rem;
+    text-align: center;
+    margin-left: 55px;
+    line-height: 24px;
+}
+#segtext-5{
+    font-weight: bold;
+    text-align: left;
+    font-size: 1.02rem;
+    margin-left: 55px;
+}
+
+#background-2{
+    height: 41vh;
+    width: 100%;
+    background-color: rgb(215,239,245);
+    margin-top: 0px;
+}
+#backtext-1{
+    font-size: 1.3rem;
+    font-family: 'Lato', sans-serif;
+}
+#seg2text{
+    font-size: 1.5rem;
+}
+#hr2{
+    width: 53%;
+    margin-left: 190px;
+    margin-top: 15px;  
+}
+#footer{
+    text-align: center;
+    background-color: rgb(8,24,38);
+    height: 175px;
+}
+h5{
+    color: rgb(237, 249, 249);
+    padding: 33px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: lighter;
+    font-size: 13px;
+    font-weight: 400;
+}
+.fa-brands{
+    margin-left: 15px;
+    border-color: black;
+    size: 45px;
+}
